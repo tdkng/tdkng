@@ -4,9 +4,10 @@
 ---
 
 ### 🔧 What I Do Best  
-- Build **backend systems and full-stack applications** using Java, JavaScript, and MySQL.  
+- Build **backend systems and full-stack applications** using Java, JavaScript, and MySQL.
+<!--
 - Ship user-facing apps end-to-end — I built **Snug**, a full-stack web app to help users find study spots and cafés, from user auth through deployment.  
-
+-->
 ---
 
 ### 🔑 Key Projects  
