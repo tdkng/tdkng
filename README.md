@@ -1,6 +1,17 @@
 # Hi, I’m Timothy 👋  
 **Recent UC Berkeley EECS Graduate | Software Engineer | Full-Stack & Secure Systems**
 
+<!--
+![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdkng&show_icons=true&theme=transparent&count_private=true)
+### 💻 Languages
+
+<div align="left">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tdkng&layout=compact&theme=transparent&count_private=true)
+  
+</div>
+
+-->
 ---
 
 ### 🔧 What I Do Best  
@@ -32,6 +43,7 @@ I love building things that solve real problems — whether that means designing
 
 
 ---
+
 
 📫 Feel free to explore my pinned repositories below. If anything catches your eye, I’m always open to a conversation.
 
