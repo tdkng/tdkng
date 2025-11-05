@@ -47,5 +47,5 @@ I love building things that solve real problems — whether that means designing
 
 📫 Feel free to explore my pinned repositories below. If anything catches your eye, I’m always open to a conversation.
 
-Thanks for stopping by 👏
+Thanks for stopping by!
 
