@@ -39,13 +39,10 @@
 ---
 
 ### 🎯 What Drives Me  
-I love building things that solve real problems — whether that means designing secure systems, optimizing performance, or creating intuitive user experiences. I’m drawn to projects that challenge me to think deeply about architecture, reliability, and scalability. Most of all, I enjoy collaborating with others who are passionate about learning, experimenting, and pushing technology forward.
-
+I love building things that solve real problems, whether that's designing systems, optimizing performance, or creating intuitive interfaces. I’m drawn to projects that challenge me to think deeply about architecture, reliability, and scalability. Most of all, I enjoy collaborating with others who are passionate about learning, experimenting, and pushing technology forward.
 
 ---
 
-
-📫 Feel free to explore my pinned repositories below. If anything catches your eye, I’m always open to a conversation.
 
 Thanks for stopping by!
 
