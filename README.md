@@ -11,18 +11,17 @@
   
 </div>
 
--->
 ---
 
 ### 🔧 What I Do Best  
 - Build **backend systems and full-stack applications** using Java, JavaScript, and MySQL.
-<!--
-- Ship user-facing apps end-to-end — I built **Snug**, a full-stack web app to help users find study spots and cafés, from user auth through deployment.  
+- Ship user-facing apps end-to-end — I built **Snug**, a full-stack web app to help users find study spots and cafés, from user auth through deployment. 
+
 -->
 ---
 
 ### 🔑 Key Projects  
-- **Snug: Study-Spot Finder** — Full-stack web application using Java Spring Boot, React, MySQL, deployed for users.  
+- **Snug: Study-Spot Finder** — Full-stack web application using Java Spring Boot, React, PostgreSQL, deployed for users.  
 
 ---
 
@@ -39,7 +38,7 @@
 ---
 
 ### 🎯 What Drives Me  
-I love building things that solve real problems, whether that's designing systems, optimizing performance, or creating intuitive interfaces. I’m drawn to projects that challenge me to think deeply about architecture, reliability, and scalability. Most of all, I enjoy collaborating with others who are passionate about learning, experimenting, and pushing technology forward.
+I love building things that challenge me to think how I design the system and optimize performance. I also enjoy creating intuitive interfaces until I impulsively decide to restart everything because I looked at my design a bit too long. Most of all, I enjoy collaborating with others who are passionate, decisive, and motivated.
 
 ---
 
