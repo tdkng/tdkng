@@ -30,7 +30,7 @@
 |------|--------|
 | Languages | Java • Python • JavaScript • Go |
 | Web & Backend | Spring Boot • Node.js • REST |
-| Frontend | React |
+| Frontend | React • Tailwind |
 | Databases | MySQL • PostgreSQL |
 | DevOps & Cloud | AWS (EC2, RDS) |
 | Testing & Quality | JUnit • pytest • go test |
