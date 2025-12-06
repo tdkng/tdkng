@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠 Tech Stack Highlights  
+### 🛠 Tech Stack
 | Area | Skills |
 |------|--------|
 | Languages | Java • Python • JavaScript • Go |
@@ -42,6 +42,9 @@ I love building things that challenge me to think how I design the system and op
 
 ---
 
+## ☎️ Contact 
+| Email | timothydknguyen@gmail.com |
+| LinkedIn | [Link](https://www.linkedin.com/in/timothydknguyen/) |
 
 Thanks for stopping by!
 
