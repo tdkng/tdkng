@@ -18,6 +18,18 @@
 - Ship user-facing apps end-to-end — I built **Snug**, a full-stack web app to help users find study spots and cafés, from user auth through deployment. 
 
 -->
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+---
+
+### 📋 About Me
+- I'm currently based in the Bay Area ☀️
+- I enjoy a casual game of Minesweeper every now and then 💣
+
 ---
 
 ### 🔑 Key Projects  
@@ -41,10 +53,6 @@
 I love building things that challenge me to think how I design the system and optimize performance. I also enjoy creating intuitive interfaces until I impulsively decide to restart everything because I looked at my design a bit too long. Most of all, I enjoy collaborating with others who are passionate, decisive, and motivated.
 
 ---
-
-## ☎️ Contact 
-| Email | timothydknguyen@gmail.com |
-| LinkedIn | [Link](https://www.linkedin.com/in/timothydknguyen/) |
 
 Thanks for stopping by!
 
