@@ -1,5 +1,5 @@
-# Hi, I’m Timothy 👋  
-**Recent UC Berkeley EECS Graduate | Software Engineer | Full-Stack & Secure Systems**
+# Hi, I’m Timothy D. Nguyen
+**UC Berkeley EECS Graduate | Software Engineer**
 
 <!--
 ![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdkng&show_icons=true&theme=transparent&count_private=true)
@@ -30,18 +30,18 @@
 
 ---
 
-### 📋 About Me
-- I'm currently based in the Bay Area ☀️
-- I enjoy a casual game of Minesweeper every now and then 💣
+### About Me
+- I'm currently based in the Bay Area
+- I enjoy a casual game of Minesweeper every now and then
 
 ---
 
-### 🔑 Key Projects  
+### Key Projects  
 - **Snug: Study-Spot Finder** — Full-stack web application using Java Spring Boot, React, PostgreSQL, deployed for users.  
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 | Area | Skills |
 |------|--------|
 | Languages | Java • Python • JavaScript • Go |
@@ -53,7 +53,7 @@
 
 ---
 
-### 🎯 What Drives Me  
+### What Drives Me  
 I love building things that challenge me to think how I design the system and optimize performance. I also enjoy creating intuitive interfaces until I impulsively decide to restart everything because I looked at my design a bit too long. Most of all, I enjoy collaborating with others who are passionate, decisive, and motivated.
 
 ---
