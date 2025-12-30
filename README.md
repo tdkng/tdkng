@@ -37,7 +37,8 @@
 ---
 
 ### Key Projects  
-- **Snug: Study-Spot Finder** — Full-stack web application using Java Spring Boot, React, PostgreSQL, deployed for users.  
+- **Snug: Study-Spot Finder** — Full-stack web application using Java Spring Boot, React, PostgreSQL, deployed for users.
+- **Inventory AI: AI Inventory System** - Streamlit application with OpenAI integration using Python and medallion architecture for data processing.
 
 ---
 
