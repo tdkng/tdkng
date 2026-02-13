@@ -41,8 +41,8 @@
 ---
 
 ### Projects I've Been Working On
-- **Snug: Study-Spot Finder** — Full-stack web application using Java Spring Boot, React, PostgreSQL, deployed for users.
-- **Inventory AI: AI Inventory System** - Streamlit application with OpenAI integration using Python and medallion architecture for data processing.
+- **Snug: Study-Spot Finder** — Full-stack web application using Java Spring Boot, React, PostgreSQL, deployed for users
+- **Inventory AI: AI Inventory System** - Streamlit application with OpenAI integration using Python and medallion architecture for data processing
 
 ---
 
