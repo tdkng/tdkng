@@ -36,7 +36,7 @@
 
 ### About Me
 - I'm currently based in the Bay Area
-- I enjoy a casual game of Minesweeper every now and then
+- I like sweeping mines 💣
 
 ---
 
